@@ -33,11 +33,12 @@ Objeví se logovací okno do Github. Logujeme se na svůj účet.
 To ale nemůže ještě plně fungovat jelikož chybí nám Git. Vpravo v Team Exploreru klikame na ikonu “domečku”. 
 
 Následně “Settings”:
+
 ![](/06.png)
 
 Zase: nechame se vest instalačním wizardem až uvidíme konečně okno, že máme naistalovaného Gita. 
 ![](/07.png)
  
-![](/08.png)
+Pak v Team Exploreru v Manage Connection zkusíme se připojit na Github. Pokud se podaří, můžete si zkusit vytvořit nějaké repositorium a to takhle, že libovolný projekt v C# odešlete na svůj účet v Githubu.
 
 ![](/09.png)
