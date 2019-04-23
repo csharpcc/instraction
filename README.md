@@ -13,4 +13,8 @@ Github bude vám rovnou nabizet abyste utvoříly nějaké první repozytorium �
 
 #### 2. Instalace rozšíření Github pro Visual Studio
 
+Otevřete Visual Studio. Tam v Menu Tools klikněme ‘Extensions and Updates’:  
+![](/01.png)
+
+
  
