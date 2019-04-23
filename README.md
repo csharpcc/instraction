@@ -42,3 +42,6 @@ Zase: nechame se vest instalačním wizardem až uvidíme konečně okno, že m�
 Pak v Team Exploreru v Manage Connection zkusíme se připojit na Github. Pokud se podaří, můžete si zkusit vytvořit nějaké repositorium a to takhle, že libovolný projekt v C# odešlete na svůj účet v Githubu.
 
 ![](/09.png)
+
+#### 3. Přidání “kolaborantů” :-)
+Sdělte mi na fb své Github usery a já vás přidávám do našeho společného projektu “C#  Coding Club” (cscc).
