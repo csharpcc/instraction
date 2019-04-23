@@ -27,9 +27,12 @@ Ted musite udělat něco, co je těžce vysvětlit: zavřete Visual Studio.
 Nasledně otevřete Visual Studio a na Menu View klikněte na “Team Explorer”, měly byste vidět tohle. Klikame “Connect”
 ![](/04.png)
 
+Objeví se logovací okno do Github. Logujeme se na svůj účet.
 ![](/05.png)
 
+To ale nemůže ještě plně fungovat jelikož chybí nám Git. Vpravo v Team Exploreru klikame na ikonu “domečku”. Následně “Settings”:
 ![](/06.png)
 
-
+![](/07.png)
  
+![](/08.png)
