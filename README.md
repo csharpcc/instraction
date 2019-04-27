@@ -45,11 +45,19 @@ Pak v Team Exploreru v Manage Connection zkusíme se připojit na Github. Pokud 
 
 ## Pro Martinu (a vsechny ostatni :-))
 Ve Visual Studiu v Team Exploresu nastavis Settings
-![](/09.png)
+![](/2019-04-27.png)
 
-![](/09.png)
+Klikneme v Repository Settings
+![](/VS2.png)
 
-![](/09.png)
+A najdeme Remotes, ja tady na svym pc mam uz nastaveno dve repozitory: jedno je moje, druhe je "nase" - skupinove, ty nejspis nemas tam nic - nevadi, za chvili si to nastavis
+![](/VS3.png)
+
+![](/VS4.png)
+
+![](/VS5.png)
+
+![](/VS6.png)
 
 #### 3. Přidání “kolaborantů” :-)
 Sdělte mi na fb své Github usery a já vás přidávám do našeho společného projektu “C#  Coding Club” (cscc).
