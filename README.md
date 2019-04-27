@@ -65,7 +65,8 @@ Mela bys uvidet neco takoveho
 
 ![](/VS5.png)
 
-Vyplnis to svymi 
+Vyplnis to adresou sveho Githuboveho uctu - tam kde budes "nahravat" sve kody. Samozrejme muzes si pridat i ten skupinovy adresar a - holky, delte se kodem, jaky by nebyl!!! 
+
 ![](/VS6.png)
 
 #### 3. Přidání “kolaborantů” :-)
