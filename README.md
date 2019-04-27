@@ -43,5 +43,13 @@ Pak v Team Exploreru v Manage Connection zkusíme se připojit na Github. Pokud 
 
 ![](/09.png)
 
+## Pro Martinu (a vsechny ostatni :-))
+Ve Visual Studiu v Team Exploresu nastavis Settings
+![](/09.png)
+
+![](/09.png)
+
+![](/09.png)
+
 #### 3. Přidání “kolaborantů” :-)
 Sdělte mi na fb své Github usery a já vás přidávám do našeho společného projektu “C#  Coding Club” (cscc).
