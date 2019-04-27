@@ -65,7 +65,7 @@ Mela bys uvidet neco takoveho
 
 ![](/VS5.png)
 
-Vyplnis to adresou sveho Githuboveho uctu - tam kde budes "nahravat" sve kody. Samozrejme muzes si pridat i ten skupinovy adresar a - holky, delte se kodem, jaky by nebyl!!! 
+Vyplnis to adresou sveho Githuboveho uctu - tam kde budes "nahravat" sve kody (placla jsem tam jedyne repozitorium, jake jsem nasla na tb=vem Github uctu, ale muzes to zmenit, dala jsem to jen tak pro priklad). Samozrejme muzes si pridat i ten skupinovy adresar, kdybys chtela publikovat sve reseni - vrele doporucju a vubec: holky, delte se kodem, je to jen zabava C# a githubem (zatim :-) casem muzeme dokonat velke veci!!!).  
 
 ![](/VS6.png)
 
