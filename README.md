@@ -45,19 +45,33 @@ Pak v Team Exploreru v Manage Connection zkusíme se připojit na Github. Pokud 
 
 ![](/09.png)
 
-# obsluha "push"
+# obsluha 
+
+Zamíříme se ted na publikování svého kódu na Github - jenom to, nic víc. Čili o cestu z “našeho počítače” na Github. Zkratka, mame program(y) a chceme ho(je) publikovat/poslat na Github. Tohle lze udělat v dvou “logických” krocích: za prvé, musime nahrát náš kod na tzv. “lokální repositorium” a za druhe, z lokálního repositorium nahrajeme na Github.
 
 ![](/VS01.png)
 
+Takže, otevřeme si projekt/solution, který chceme publikovat. Ve “File” klikněme “Add to Source Control”
+
 ![](/VS02.png)
+
+Jenom pro kontrolu podivame se do Team Explorera v Manage Connections (ikonka vpravo od “domečku”), zda se nám objeví na seznamu náš projekt. To je jenom kontrole, je možne ten krok přeskočit.
 
 ![](/VS03.png)
 
+Jelikož cpu všechny programy z kurzu do stejného repositorium na Github, tak kvůli pořádku publikuju jenom jeden projekt v jedné větvi (v jedné branch). Je možné to dělat jinak: jeden projekt = jedno repositorium. Ale asi se shodneme, že cvičné programy nejsou moc reprezentativní, tak ja je cpu do jednoho repositorium - je to ale na vás, postup je stejný = akorát když chcete pro každý projekt mít jedno repositorium, tak ten krok můžete přeskočit. Tady si totéž definujeme nový branch (pro nový projekt v ramci stejného repositoria). Přejdeme do Branches, klikněte New Branch, napište název te nové větvi a potvrdite Create Branch: 
+
 ![](/VS04.png)
+
+Mělo by to vypadat takhle - na obrazku nová větev se jmenuje Test08, větev master je tam vždycky!!!
 
 ![](/VS05.png)
 
+Nasledne přejdeme do Sync
+
 ![](/VS06.png)
+
+Klikněme Publish Git Repo v Push to Remote Repository:
 
 ![](/VS07.png)
 
