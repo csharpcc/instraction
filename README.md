@@ -45,6 +45,8 @@ Pak v Team Exploreru v Manage Connection zkusíme se připojit na Github. Pokud 
 
 ![](/09.png)
 
+# obsluha "push"
+
 ## Pro Martinu (a vsechny ostatni :-))
 
 Ve Visual Studiu v Team Exploresu nastavis Settings
