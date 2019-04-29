@@ -77,13 +77,15 @@ Chce to po nás nazev našeho repositorium na Github, jako tady na tom obrazku:
 
 ![](/VS07.png)
 
+Vklejime tam url adresu našého Github repositoria a klikněme Publish:
+
 ![](/VS08.png)
 
-![](/VS09.png)
-
-![](/VS10.png)
+Hotovo! Měly byste vidět své dílo na Github. Např. jako na obrázku níže:
 
 ![](/VS11.png)
+
+Po rozkliknutí větví můžete si najít požadovanou větev:
 
 ![](/VS12.png)
 
