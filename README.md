@@ -4,6 +4,8 @@
 
 tady najdete instrukce v třech krocích, co a jak nainstalovat, abychom mohly pokračovat se C# v Githubu.
 
+# instalace
+
 #### 1. Otevření Github účtu
 Přejdete na stránku www.github.com a tam vpravo na hoře klikněte na “Sign Up”. Vyplňte všechny požadované polička: user id nemusí být vaše opravdové jméno a příjmení, ale kdybyste (nahodou) uvažovaly o tom, že své repozitoria někomu v budoucnu ukažete (např. budoucímu zaměstnavateli), tak zvažte tady nějaký vhodný nazev :-)
 
