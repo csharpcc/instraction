@@ -47,7 +47,32 @@ Pak v Team Exploreru v Manage Connection zkusíme se připojit na Github. Pokud 
 
 # obsluha "push"
 
-## Pro Martinu (a vsechny ostatni :-))
+![](/VS01.png)
+
+![](/VS02.png)
+
+![](/VS03.png)
+
+![](/VS04.png)
+
+![](/VS05.png)
+
+![](/VS06.png)
+
+![](/VS07.png)
+
+![](/VS08.png)
+
+![](/VS09.png)
+
+![](/VS10.png)
+
+![](/VS11.png)
+
+![](/VS12.png)
+
+
+#### Pro Martinu (a vsechny ostatni :-))
 
 Ve Visual Studiu v Team Exploresu nastavis Settings
 
