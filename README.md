@@ -45,6 +45,10 @@ Pak v Team Exploreru v Manage Connection zkusíme se připojit na Github. Pokud 
 
 ![](/09.png)
 
+#### 3. Přidání “kolaborantů” :-)
+Sdělte mi na fb své Github usery a já vás přidávám do našeho společného projektu “C#  Coding Club” (cscc).
+
+
 # obsluha 
 
 Zamíříme se ted na publikování svého kódu na Github - jenom to, nic víc. Čili o cestu z “našeho počítače” na Github. Zkratka, mame program(y) a chceme ho(je) publikovat/poslat na Github. Tohle lze udělat v dvou “logických” krocích: za prvé, musime nahrát náš kod na tzv. “lokální repositorium” a za druhe, z lokálního repositorium nahrajeme na Github.
@@ -90,7 +94,7 @@ Po rozkliknutí větví můžete si najít požadovanou větev:
 ![](/VS12.png)
 
 
-#### Pro Martinu (a vsechny ostatni :-))
+###### Pro Martinu (a vsechny ostatni :-))
 
 Ve Visual Studiu v Team Exploresu nastavis Settings
 
@@ -115,6 +119,3 @@ Mela bys uvidet neco takoveho
 Vyplnis to adresou sveho Githuboveho uctu - tam kde budes "nahravat" sve kody (placla jsem tam jedyne repozitorium, jake jsem nasla na tb=vem Github uctu, ale muzes to zmenit, dala jsem to jen tak pro priklad). Samozrejme muzes si pridat i ten skupinovy adresar, kdybys chtela publikovat sve reseni - vrele doporucju a vubec: holky, delte se kodem, je to jen zabava C# a githubem (zatim :-) casem muzeme dokonat velke veci!!!).  
 
 ![](/VS6.png)
-
-#### 3. Přidání “kolaborantů” :-)
-Sdělte mi na fb své Github usery a já vás přidávám do našeho společného projektu “C#  Coding Club” (cscc).
