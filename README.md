@@ -51,6 +51,8 @@ Sdělte mi na fb své Github usery a já vás přidávám do našeho společnéh
 
 # obsluha 
 
+#### 1. publikujeme
+
 Zamíříme se ted na publikování svého kódu na Github - jenom to, nic víc. Čili o cestu z “našeho počítače” na Github. Zkratka, mame program(y) a chceme ho(je) publikovat/poslat na Github. Tohle lze udělat v dvou “logických” krocích: za prvé, musime nahrát náš kod na tzv. “lokální repositorium” a za druhe, z lokálního repositorium nahrajeme na Github.
 Takže, otevřeme si projekt/solution, který chceme publikovat. Ve “File” klikněme “Add to Source Control”
 
@@ -92,6 +94,17 @@ Hotovo! Měly byste vidět své dílo na Github. Např. jako na obrázku níže:
 Po rozkliknutí větví můžete si najít požadovanou větev:
 
 ![](/VS12.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ###### Pro Martinu (a vsechny ostatni :-))
